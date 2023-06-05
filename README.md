@@ -1,5 +1,11 @@
 # server-deployment-practice1
+[Online server](https://server-i68i.onrender.com/)
+<br>
+[Pull request](https://github.com/Motasem-Sulaiman/server-deployment-practice1/pull/2)
+<br>
+[GitHub Actions](https://github.com/Motasem-Sulaiman/server-deployment-practice1/actions)
 
+<br>
 we talked about CI\CD: its a way to write our code and make steps to be sure our code is working perfectly 
 
 and create a code if theres any problem it will fail our pull request on github
