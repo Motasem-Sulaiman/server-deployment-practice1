@@ -3,7 +3,6 @@
 <br>
 
 [Pull request](https://github.com/Motasem-Sulaiman/server-deployment-practice1/pull/2)
-
 <br>
 
 [GitHub Actions](https://github.com/Motasem-Sulaiman/server-deployment-practice1/actions)
